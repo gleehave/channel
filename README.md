@@ -8,8 +8,4 @@
 
 <br>
 ## 기술 스택
-|  Python  |  Django  |  Channels  |
-|:--------:|:--------:|:----------:|
-|   3.9    |  4.0.4   |   3.0.5    |
-| :------: | :------: | :--------: |
-|  Travis  |  Docker  |   Redis    |
+Python, Django, Channels, Travis, Docker, Redis
