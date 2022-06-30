@@ -8,4 +8,3 @@ Python, Django, Channels, Travis, Docker, Redis
 
 ## concept drawing
 ![구상도](https://user-images.githubusercontent.com/91510831/176613470-e41d8344-1350-4e8d-8550-0fb1bde48875.png)
-
